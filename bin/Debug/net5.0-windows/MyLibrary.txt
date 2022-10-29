@@ -1,0 +1,6 @@
+Kie, 600
+Emil, 300
+Arin, 0
+LimaBean007, 1200
+Lime, 0
+Test, 100
